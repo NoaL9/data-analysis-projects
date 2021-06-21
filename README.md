@@ -19,6 +19,5 @@ Data Analysis with Python conclude the fundamentals of data analysis with Python
 <li>Sea Level Predictor</li>
 
 ### Certification
-These projects allowed me to obtain my <a href="https://www.freecodecamp.org/certification/noa_maatuk/data-analysis-with-python-v7" target="_blank">Data analysis with Python Certification</a>
-
+These projects were submitted as part of <a href="https://www.freecodecamp.org/certification/noa_maatuk/data-analysis-with-python-v7" target="_blank">Data analysis with Python</a> certificate studies.
 <a href="https://www.freecodecamp.org/certification/noa_maatuk/data-analysis-with-python-v7" target="_blank"><img src="https://user-images.githubusercontent.com/86192942/122734742-03bbf680-d287-11eb-84f6-f175d0b2e972.PNG" width="420" height="320"></a>
